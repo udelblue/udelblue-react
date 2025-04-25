@@ -10,17 +10,17 @@ export default function StatsSection() {
                     <div className="rounded-(--radius) space-y-4 border py-12">
                         <div className="text-5xl font-bold">+30</div>
                         <p className="font-bold">Certifications</p>
-                        <p className="text-slate-900/50 dark:text-slate-100/50">Certifications accross the top four cloud providers and three pretaining to AI.</p>
+                        <p className="text-slate-900/50 dark:text-slate-200/50">Certifications across the top four cloud providers and three pertaining to AI.</p>
                     </div>
                     <div className="rounded-(--radius) space-y-4 border py-12">
                         <div className="text-3xl font-bold">Managed a team of upward of 40 individuals.</div>
                         <p className="font-bold">Managed multiple over my career. </p>
-                        <p className="text-slate-900/50 dark:text-slate-100/50">Managed multiple teams of varying disciplines. Including develop software development, testing, production support to data scientists. </p>
+                        <p className="text-slate-900/50 dark:text-slate-200/50">Managed multiple teams of varying disciplines. Including develop software development, testing, production support to data scientists. </p>
                     </div>
                     <div className="rounded-(--radius) space-y-4 border py-12">
                         <div className="text-5xl font-bold">+20</div>
                         <p className="font-bold">Years of experience in the technology field.</p>
-                        <p className="text-slate-900/50 dark:text-slate-100/50">Experience across multiple disciplines in the technology field. Including, but not limited to software, systems and cloud development. </p>
+                        <p className="text-slate-900/50 dark:text-slate-200/50">Experience across multiple disciplines in the technology field. Including, but not limited to software, systems and cloud development. </p>
                     </div>
                 </div>
             </div>

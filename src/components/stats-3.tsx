@@ -14,7 +14,7 @@ export default function StatsSection() {
                     </div>
                     <div className="rounded-(--radius) space-y-4 border py-12">
                         <div className="text-3xl font-bold">Managed a team of upward of 40 individuals.</div>
-                        <p className="font-bold">Managed multiple over my career. </p>
+                        <p className="font-bold">Experience managing offshore and onshore teams.</p>
                         <p className="text-slate-900/50 dark:text-slate-200/50">Managed multiple teams of varying disciplines. Including develop software development, testing, production support to data scientists. </p>
                     </div>
                     <div className="rounded-(--radius) space-y-4 border py-12">
